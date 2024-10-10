@@ -35,7 +35,7 @@ class OirFileReader:
             
             xmlDataEnd = data.find(rootName, xmlDataStart+len(xmlSearchString)+1)+len(rootName)+1
                 
-            print(xmlDataEnd-xmlDataStart)
+            #print(xmlDataEnd-xmlDataStart)
                 
             xmlData = data[xmlDataStart:xmlDataEnd]
                 
