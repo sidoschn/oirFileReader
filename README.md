@@ -3,6 +3,7 @@ The image data is output as multidimensional numpy array.
 The metadata is output as Dictionary.
 
 Installation:
+
 -pip install oirFileReader
 
 Quickstart usage:
